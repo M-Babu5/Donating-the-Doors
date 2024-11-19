@@ -1,0 +1,54 @@
+
+body{
+    
+    background-color: aqua;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.53bWNY91wmPdWPuWPcLf4gHaDt&pid=Api&P=0&h=180");
+    background-size: 100% 100%;
+    
+
+    
+
+}  
+.title{
+    margin-top: 10%;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 5px;
+    
+    font-style: italic;
+    color:rgb(30, 170, 205);
+    font-weight: bolder;
+    margin-left: 4px 5px 6px;
+}
+button{
+    background-position: 50% center;
+    color:black;
+    font-style: initial;
+    margin: bottom 20px 20px 20px;
+    
+}
+h2{
+    text-align: center;
+    color:rgb(20, 175, 206);
+    font-style: italic;
+}
+
+.but{
+    text-align: center;
+    color: black;
+    margin-top: 5%;
+}
+.ab{
+    text-align: center;
+    font-style: initial;
+    color: white;
+}
+.btn-info{
+    background-color: aquamarine;
+}
+.container{
+    background-color: azure;
+    text-align: center;
+}

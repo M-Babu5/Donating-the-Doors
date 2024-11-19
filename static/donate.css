@@ -1,0 +1,39 @@
+body{
+    background-color: aqua;
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.9R6yYxRlyFp-1R4ORQoNeQHaFd&pid=Api&P=0&h=180");
+    background-size: 100% 100%;
+
+}
+h1{
+    text-align: center;
+    color:white;
+    font-style:initial;
+}
+button{
+    color: black;
+    font-style: initial;
+}
+form{
+    text-align: center;
+}
+.foo{
+    border-radius: 12px ;
+    height: 40px;
+    border-color: black;
+    font-style: italic;
+    
+}
+.sub{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: black;
+    font-style: initial;
+}
+.la{
+    font-size: 30px;
+    color:white;
+    font-weight: bolder;
+    font-style: inherit;
+}

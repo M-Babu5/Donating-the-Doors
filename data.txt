@@ -1,0 +1,4 @@
+{"name":"","item_name":"","item_category":"","tel":"09392607193","mail":"akhileshrayapol@gmail.com","adds":"1-43"}
+{"name":"Rayapol Jyothi","item_name":"","item_category":"","tel":"06303718140","mail":"akhileshrayapol@gmail.com","adds":"Yellaiguda village, jagadevpur, mondal, siddipet dist Telangana state"}
+{"name":"Arjun","item_name"rice"","item_category":"food","tel":"9392607193","mail":"akhileshrayapol@gmail.com","adds":"1-43"}
+

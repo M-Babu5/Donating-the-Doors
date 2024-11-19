@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    background-image: url(C:\Users\Akhilesh\Desktop\web\aboutus.jpg);
+
+}
+h1{
+    text-decoration: underline;
+    color: black;
+    font-variant: initial;
+}
+h2{
+    font-weight: bold;
+    
+    font-style: italic;
+    color: rgb(57, 44, 155);
+    
+    scroll-margin-left: 50%;
+}
+.ab{
+    text-align: center;
+}

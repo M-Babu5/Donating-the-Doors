@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.Cs3CZnGSHyvL9nOCT-eChQHaDs&pid=Api&P=0&h=180");
+    background-size: 100% 100%;
+}
+h1{
+    text-align: center;
+    text-decoration: double;
+    text-shadow: 3vw;
+    color: black;
+    font-style: italic;
+}
+
